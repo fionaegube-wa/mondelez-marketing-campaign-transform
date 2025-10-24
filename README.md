@@ -30,7 +30,7 @@ This project provides a **reusable Python script** that:
 
 ---
 
-## ⚡ What the Script Does
+## What the Script Does
 
 Inside `marketing_transform.py`, the script performs the following steps:
 
